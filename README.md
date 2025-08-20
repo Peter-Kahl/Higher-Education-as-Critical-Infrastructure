@@ -4,7 +4,7 @@
 
 #### A policy paper prepared for submission to the House of Commons Education Select Committee and published for wider public circulation.
 
-![alt text](https://github.com/Peter-Kahl/Higher-Education-as-Critical-Infrastructure/blob/main/union_jack_education?raw=true)
+![alt text](https://github.com/Peter-Kahl/Higher-Education-as-Critical-Infrastructure/blob/main/union_jack_education.jpg?raw=true)
 
 by Peter Kahl, 20 August 2025
 
